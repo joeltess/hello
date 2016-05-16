@@ -6,8 +6,7 @@ Summary:        The "Hello World" program from GNU
 License:        GPLv3+
 URL:            http://ftp.gnu.org/gnu/%{name}
 Source0:        http://ftp.gnu.org/gnu/%{name}/%{name}-%{version}.tar.gz
-
-
+BuildRequires:	texinfo
 
 
 
